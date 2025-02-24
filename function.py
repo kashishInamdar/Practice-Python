@@ -69,3 +69,10 @@ def tri_recursion(k):
 
 print("Recursion Example Results:")
 tri_recursion(6)
+
+def add(a, b):
+    sum= a+b
+    return sum
+
+print(add(30,35))
+          
